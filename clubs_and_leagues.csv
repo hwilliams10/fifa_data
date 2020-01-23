@@ -1,0 +1,607 @@
+﻿Club,League,Country
+Atlanta United,MLS,USA / Canada
+Chicago Fire,MLS,USA / Canada
+Colorado Rapids,MLS,USA / Canada
+Columbus Crew SC,MLS,USA / Canada
+D.C. United,MLS,USA / Canada
+FC Cincinnati,MLS,USA / Canada
+FC Dallas,MLS,USA / Canada
+Houston Dynamo,MLS,USA / Canada
+Impact Montréal,MLS,USA / Canada
+LA Galaxy,MLS,USA / Canada
+LAFC,MLS,USA / Canada
+Minnesota United,MLS,USA / Canada
+New England,MLS,USA / Canada
+New York City FC,MLS,USA / Canada
+NY Red Bulls,MLS,USA / Canada
+Orlando City,MLS,USA / Canada
+Philadelphia,MLS,USA / Canada
+Portland Timbers,MLS,USA / Canada
+Real Salt Lake,MLS,USA / Canada
+Seattle Sounders,MLS,USA / Canada
+SJ Earthquakes,MLS,USA / Canada
+Sporting KC,MLS,USA / Canada
+Toronto FC,MLS,USA / Canada
+Whitecaps FC,MLS,USA / Canada
+Alanyaspor,Super Lig,Turkey
+Antalyaspor,Super Lig,Turkey
+Başakşehir,Super Lig,Turkey
+Beşiktaş,Super Lig,Turkey
+Çaykur Rizespor,Super Lig,Turkey
+Denizlispor,Super Lig,Turkey
+Fenerbahçe,Super Lig,Turkey
+Galatasaray,Super Lig,Turkey
+Gazişehir Gaziantep,Super Lig,Turkey
+Gençlerbirliği,Super Lig,Turkey
+Göztepe,Super Lig,Turkey
+Kasimpaşa,Super Lig,Turkey
+Kayserispor,Super Lig,Turkey
+Konyaspor,Super Lig,Turkey
+MKE Ankaragücü,Super Lig,Turkey
+Sivasspor,Super Lig,Turkey
+Trabzonspor,Super Lig,Turkey
+Yeni Malatyaspor,Super Lig,Turkey
+BSC Young Boys,Raiffeisen Super League,Switzerland
+FC Basel 1893,Raiffeisen Super League,Switzerland
+FC Lugano,Raiffeisen Super League,Switzerland
+FC Luzern,Raiffeisen Super League,Switzerland
+FC Sion,Raiffeisen Super League,Switzerland
+FC St. Gallen,Raiffeisen Super League,Switzerland
+FC Thun,Raiffeisen Super League,Switzerland
+FC Zürich,Raiffeisen Super League,Switzerland
+Neuchâtel Xamax,Raiffeisen Super League,Switzerland
+Servette FC,Raiffeisen Super League,Switzerland
+AFC Eskilstuna,Allsvenskan,Sweden
+AIK,Allsvenskan,Sweden
+BK Häcken,Allsvenskan,Sweden
+Djurgårdens IF,Allsvenskan,Sweden
+Falkenbergs FF,Allsvenskan,Sweden
+GIF Sundsvall,Allsvenskan,Sweden
+Hammarby IF,Allsvenskan,Sweden
+Helsingborgs IF,Allsvenskan,Sweden
+IF Elfsborg,Allsvenskan,Sweden
+IFK Göteborg,Allsvenskan,Sweden
+IFK Norrköping,Allsvenskan,Sweden
+IK Sirius,Allsvenskan,Sweden
+Kalmar FF,Allsvenskan,Sweden
+Malmö FF,Allsvenskan,Sweden
+Örebro SK,Allsvenskan,Sweden
+Östersunds FK,Allsvenskan,Sweden
+AD Alcorcón,LaLiga Smartbank,Spain
+Albacete BP,LaLiga Smartbank,Spain
+Cádiz CF,LaLiga Smartbank,Spain
+CD Lugo,LaLiga Smartbank,Spain
+CD Mirandés,LaLiga Smartbank,Spain
+CD Numancia,LaLiga Smartbank,Spain
+CD Tenerife,LaLiga Smartbank,Spain
+CF Fuenlabrada,LaLiga Smartbank,Spain
+Elche CF,LaLiga Smartbank,Spain
+Extremadura UD,LaLiga Smartbank,Spain
+Girona FC,LaLiga Smartbank,Spain
+Málaga CF,LaLiga Smartbank,Spain
+R. Oviedo,LaLiga Smartbank,Spain
+R. Racing C.,LaLiga Smartbank,Spain
+R. Sporting,LaLiga Smartbank,Spain
+R. Zaragoza,LaLiga Smartbank,Spain
+Rayo Vallecano,LaLiga Smartbank,Spain
+RC Deportivo,LaLiga Smartbank,Spain
+SD Huesca,LaLiga Smartbank,Spain
+SD Ponferradina,LaLiga Smartbank,Spain
+UD Almería,LaLiga Smartbank,Spain
+UD Las Palmas,LaLiga Smartbank,Spain
+Athletic Club,LaLiga,Spain
+Atlético Madrid,LaLiga,Spain
+CA Osasuna,LaLiga,Spain
+CD Leganés,LaLiga,Spain
+D. Alavés,LaLiga,Spain
+FC Barcelona,LaLiga,Spain
+Getafe CF,LaLiga,Spain
+Granada CF,LaLiga,Spain
+Levante UD,LaLiga,Spain
+R. Valladolid CF,LaLiga,Spain
+RC Celta,LaLiga,Spain
+RCD Espanyol,LaLiga,Spain
+RCD Mallorca,LaLiga,Spain
+Real Betis,LaLiga,Spain
+Real Madrid,LaLiga,Spain
+Real Sociedad,LaLiga,Spain
+SD Eibar,LaLiga,Spain
+Sevilla FC,LaLiga,Spain
+Valencia CF,LaLiga,Spain
+Villarreal CF,LaLiga,Spain
+Aberdeen,Scottish Premiership,Scotland
+Celtic,Scottish Premiership,Scotland
+Hamilton,Scottish Premiership,Scotland
+Hearts,Scottish Premiership,Scotland
+Hibernian,Scottish Premiership,Scotland
+Kilmarnock,Scottish Premiership,Scotland
+Livingston,Scottish Premiership,Scotland
+Motherwell,Scottish Premiership,Scotland
+Rangers,Scottish Premiership,Scotland
+Ross County,Scottish Premiership,Scotland
+St. Johnstone,Scottish Premiership,Scotland
+St. Mirren,Scottish Premiership,Scotland
+Abha Club,Saudi Pro League,Saudi Arabia
+Al Adalah,Saudi Pro League,Saudi Arabia
+Al Ahli,Saudi Pro League,Saudi Arabia
+Al Faisaly,Saudi Pro League,Saudi Arabia
+Al Fateh,Saudi Pro League,Saudi Arabia
+Al Fayha,Saudi Pro League,Saudi Arabia
+Al Hazem,Saudi Pro League,Saudi Arabia
+Al Hilal,Saudi Pro League,Saudi Arabia
+Al Ittihad,Saudi Pro League,Saudi Arabia
+Al Nassr,Saudi Pro League,Saudi Arabia
+Al Raed,Saudi Pro League,Saudi Arabia
+Al Shabab,Saudi Pro League,Saudi Arabia
+Al Taawoun,Saudi Pro League,Saudi Arabia
+Al Wehda,Saudi Pro League,Saudi Arabia
+Damac FC,Saudi Pro League,Saudi Arabia
+Ettifaq FC,Saudi Pro League,Saudi Arabia
+Academica Clinceni,Liga I,Romania
+Astra Giurgiu,Liga I,Romania
+CFR Cluj,Liga I,Romania
+Chindia,Liga I,Romania
+CS U Craiova,Liga I,Romania
+Dinamo Bucureşti,Liga I,Romania
+FC Botoşani,Liga I,Romania
+FC Hermannstadt,Liga I,Romania
+FC Voluntari,Liga I,Romania
+FCSB,Liga I,Romania
+Gaz Metan,Liga I,Romania
+Politehnica Iaşi,Liga I,Romania
+Sepsi OSK,Liga I,Romania
+Viitorul,Liga I,Romania
+AEK Athens,Rest of World,
+Al Ain FC,Rest of World,
+CSKA Moscow,Rest of World,
+Dinamo Zagreb,Rest of World,
+Dynamo Kyiv,Rest of World,
+HJK Helsinki,Rest of World,
+Kaizer Chiefs,Rest of World,
+Lokomotiv Moscow,Rest of World,
+MLS All Stars ***,Rest of World,
+Olympiacos CFP,Rest of World,
+Orlando Pirates,Rest of World,
+Panathinaikos,Rest of World,
+PAOK,Rest of World,
+Shakhtar Donetsk,Rest of World,
+Slavia Praha,Rest of World,
+Sparta Praha,Rest of World,
+Spartak Moscow,Rest of World,
+Viktoria Plzeň,Rest of World,
+Belenenses,Liga Nos,Portugal
+Boavista FC,Liga Nos,Portugal
+CD Tondela,Liga Nos,Portugal
+Desportivo Aves,Liga Nos,Portugal
+FC Famalicão,Liga Nos,Portugal
+FC Porto,Liga Nos,Portugal
+Gil Vicente,Liga Nos,Portugal
+Marítimo,Liga Nos,Portugal
+Moreirense FC,Liga Nos,Portugal
+Paços Ferreira,Liga Nos,Portugal
+Portimonense SC,Liga Nos,Portugal
+Rio Ave FC,Liga Nos,Portugal
+Santa Clara,Liga Nos,Portugal
+SC Braga,Liga Nos,Portugal
+SL Benfica,Liga Nos,Portugal
+Sporting CP,Liga Nos,Portugal
+V. Guimarães,Liga Nos,Portugal
+V. Setúbal,Liga Nos,Portugal
+Arka Gdynia,PKO Ekstraklasa,Poland
+Cracovia,PKO Ekstraklasa,Poland
+Górnik Zabrze,PKO Ekstraklasa,Poland
+Jagiellonia,PKO Ekstraklasa,Poland
+Korona Kielce,PKO Ekstraklasa,Poland
+Lech Poznań,PKO Ekstraklasa,Poland
+Lechia Gdańsk,PKO Ekstraklasa,Poland
+Legia Warszawa,PKO Ekstraklasa,Poland
+ŁKS Łódź,PKO Ekstraklasa,Poland
+Piast Gliwice,PKO Ekstraklasa,Poland
+Pogoń Szczecin,PKO Ekstraklasa,Poland
+Raków Częstochowa,PKO Ekstraklasa,Poland
+Śląsk Wrocław,PKO Ekstraklasa,Poland
+Wisła Kraków,PKO Ekstraklasa,Poland
+Wisła Płock,PKO Ekstraklasa,Poland
+Zagłębie Lubin,PKO Ekstraklasa,Poland
+FK Bodø/Glimt,Eliteserien,Norway
+FK Haugesund,Eliteserien,Norway
+Kristiansund,Eliteserien,Norway
+Lillestrøm SK,Eliteserien,Norway
+Mjøndalen IF,Eliteserien,Norway
+Molde FK,Eliteserien,Norway
+Odds BK,Eliteserien,Norway
+Ranheim Fotball,Eliteserien,Norway
+Rosenborg BK,Eliteserien,Norway
+Sarpsborg 08 FF,Eliteserien,Norway
+SK Brann,Eliteserien,Norway
+Stabæk Fotball,Eliteserien,Norway
+Strømsgodset IF,Eliteserien,Norway
+Tromsø IL,Eliteserien,Norway
+Vålerenga Fotball,Eliteserien,Norway
+Viking FK,Eliteserien,Norway
+ADO Den Haag,Eredivisie,Netherlands
+Ajax,Eredivisie,Netherlands
+AZ,Eredivisie,Netherlands
+FC Emmen,Eredivisie,Netherlands
+FC Groningen,Eredivisie,Netherlands
+FC Twente,Eredivisie,Netherlands
+FC Utrecht,Eredivisie,Netherlands
+Feyenoord,Eredivisie,Netherlands
+Fortuna Sittard,Eredivisie,Netherlands
+Heracles Almelo,Eredivisie,Netherlands
+PEC Zwolle,Eredivisie,Netherlands
+PSV,Eredivisie,Netherlands
+RKC Waalwijk,Eredivisie,Netherlands
+SC Heerenveen,Eredivisie,Netherlands
+Sparta Rotterdam,Eredivisie,Netherlands
+Vitesse,Eredivisie,Netherlands
+VVV-Venlo,Eredivisie,Netherlands
+Willem II,Eredivisie,Netherlands
+América,Liga BBVA MX,Mexico
+Atlas,Liga BBVA MX,Mexico
+Atlético San Luis,Liga BBVA MX,Mexico
+Cruz Azul,Liga BBVA MX,Mexico
+FC Juárez,Liga BBVA MX,Mexico
+Guadalajara,Liga BBVA MX,Mexico
+León,Liga BBVA MX,Mexico
+Monarcas Morelia,Liga BBVA MX,Mexico
+Monterrey,Liga BBVA MX,Mexico
+Necaxa,Liga BBVA MX,Mexico
+Pachuca,Liga BBVA MX,Mexico
+Puebla,Liga BBVA MX,Mexico
+Querétaro,Liga BBVA MX,Mexico
+Santos Laguna,Liga BBVA MX,Mexico
+Tigres,Liga BBVA MX,Mexico
+Tijuana,Liga BBVA MX,Mexico
+Toluca,Liga BBVA MX,Mexico
+U.N.A.M.,Liga BBVA MX,Mexico
+Veracruz,Liga BBVA MX,Mexico
+Daegu FC,K-League 1,Korea Republic
+FC Seoul,K-League 2,Korea Republic
+Gangwon FC,K-League 3,Korea Republic
+Gyeongnam FC,K-League 4,Korea Republic
+Incheon United,K-League 5,Korea Republic
+Jeju United,K-League 6,Korea Republic
+Jeonbuk Hyundai,K-League 7,Korea Republic
+Pohang Steelers,K-League 8,Korea Republic
+Sangju Sangmu,K-League 9,Korea Republic
+Seongnam FC,K-League 10,Korea Republic
+Suwon Samsung,K-League 11,Korea Republic
+Ulsan Hyundai,K-League 12,Korea Republic
+Cerezo Osaka,J1,Japan
+F.C. Tokyo,J2,Japan
+Gamba Osaka,J3,Japan
+H.Consa.Sapporo,J4,Japan
+Júbilo Iwata,J5,Japan
+Kashima Antlers,J6,Japan
+Kawasaki-F,J7,Japan
+Matsumoto Yamaga,J8,Japan
+Nagoya Grampus,J9,Japan
+Oita Trinita,J10,Japan
+Sagan Tosu,J11,Japan
+Shimizu S-Pulse,J12,Japan
+S-Hiroshima,J13,Japan
+Shonan Bellmare,J14,Japan
+Urawa Reds,J15,Japan
+Vegalta Sendai,J16,Japan
+Vissel Kobe,J17,Japan
+Yokohama F･M,J18,Japan
+Ascoli,Calcio B,Italy
+Benevento,Calcio B,Italy
+C. Stabia,Calcio B,Italy
+Chiavari,Calcio B,Italy
+Chievo Verona,Calcio B,Italy
+Cittadella,Calcio B,Italy
+Cosenza,Calcio B,Italy
+Cremona,Calcio B,Italy
+Crotone,Calcio B,Italy
+Empoli,Calcio B,Italy
+Frosinone,Calcio B,Italy
+La Spezia,Calcio B,Italy
+Livorno,Calcio B,Italy
+Perugia,Calcio B,Italy
+Pescara,Calcio B,Italy
+Pisa,Calcio B,Italy
+Pordenone,Calcio B,Italy
+Salerno,Calcio B,Italy
+Trapani,Calcio B,Italy
+Venezia,Calcio B,Italy
+Atalanta,Serie A,Italy
+Bologna,Serie A,Italy
+Brescia,Serie A,Italy
+Cagliari,Serie A,Italy
+Fiorentina,Serie A,Italy
+Genoa,Serie A,Italy
+Hellas Verona,Serie A,Italy
+Inter,Serie A,Italy
+Lazio,Serie A,Italy
+Lecce,Serie A,Italy
+Milan,Serie A,Italy
+Napoli,Serie A,Italy
+Parma,Serie A,Italy
+Piemonte Calcio,Serie A,Italy
+Roma,Serie A,Italy
+Sampdoria,Serie A,Italy
+Sassuolo,Serie A,Italy
+SPAL,Serie A,Italy
+Torino,Serie A,Italy
+Udinese,Serie A,Italy
+Bohemian FC,SSE Airtricity League,Ireland
+Cork City,SSE Airtricity League,Ireland
+Derry City,SSE Airtricity League,Ireland
+Dundalk,SSE Airtricity League,Ireland
+Finn Harps,SSE Airtricity League,Ireland
+Shamrock Rovers,SSE Airtricity League,Ireland
+Sligo Rovers,SSE Airtricity League,Ireland
+St. Pats,SSE Airtricity League,Ireland
+UCD AFC,SSE Airtricity League,Ireland
+Waterford FC,SSE Airtricity League,Ireland
+1860 München,Liga 3,Germany
+Braunschweig,Liga 3,Germany
+Carl Zeiss Jena,Liga 3,Germany
+Chemnitzer FC,Liga 3,Germany
+Duisburg,Liga 3,Germany
+FC Bayern II,Liga 3,Germany
+FSV Zwickau,Liga 3,Germany
+Hallescher FC,Liga 3,Germany
+Hansa Rostock,Liga 3,Germany
+Ingolstadt,Liga 3,Germany
+Kaiserslautern,Liga 3,Germany
+KFC Uerdingen,Liga 3,Germany
+Magdeburg,Liga 3,Germany
+Preußen Münster,Liga 3,Germany
+S. Großaspach,Liga 3,Germany
+SV Meppen,Liga 3,Germany
+SV Waldhof,Liga 3,Germany
+Unterhaching,Liga 3,Germany
+Viktoria Köln,Liga 3,Germany
+Würzburg,Liga 3,Germany
+FC Nürnberg,Bundesliga 2,Germany
+Aue,Bundesliga 3,Germany
+Bielefeld,Bundesliga 4,Germany
+Bochum,Bundesliga 5,Germany
+Darmstadt,Bundesliga 6,Germany
+Dresden,Bundesliga 7,Germany
+Fürth,Bundesliga 8,Germany
+Hamburg,Bundesliga 9,Germany
+Hannover 96,Bundesliga 10,Germany
+Heidenheim,Bundesliga 11,Germany
+Karlsruher SC,Bundesliga 12,Germany
+Kiel,Bundesliga 13,Germany
+Regensburg,Bundesliga 14,Germany
+Sandhausen,Bundesliga 15,Germany
+St. Pauli,Bundesliga 16,Germany
+VfB Stuttgart,Bundesliga 17,Germany
+VfL Osnabrück,Bundesliga 18,Germany
+Wiesbaden,Bundesliga 19,Germany
+1. FSV Mainz 05,Bundesliga,Germany
+Dortmund,Bundesliga,Germany
+Düsseldorf,Bundesliga,Germany
+FC Augsburg,Bundesliga,Germany
+FC Bayern München,Bundesliga,Germany
+Frankfurt,Bundesliga,Germany
+Hertha BSC,Bundesliga,Germany
+Köln,Bundesliga,Germany
+Leverkusen,Bundesliga,Germany
+M'gladbach,Bundesliga,Germany
+Paderborn,Bundesliga,Germany
+RB Leipzig,Bundesliga,Germany
+SC Freiburg,Bundesliga,Germany
+Schalke,Bundesliga,Germany
+TSG Hoffenheim,Bundesliga,Germany
+Union Berlin,Bundesliga,Germany
+VfL Wolfsburg,Bundesliga,Germany
+Werder Bremen,Bundesliga,Germany
+AC Ajaccio,Ligue 2,France
+AJ Auxerre,Ligue 2,France
+Chamois FC,Ligue 2,France
+Clermont Foot,Ligue 2,France
+EA Guingamp,Ligue 2,France
+ESTAC Troyes,Ligue 2,France
+FC Chambly,Ligue 2,France
+FC Lorient,Ligue 2,France
+FCSM,Ligue 2,France
+Grenoble Foot,Ligue 2,France
+Havre AC,Ligue 2,France
+La Berrichonne,Ligue 2,France
+Le Mans FC,Ligue 2,France
+Nancy,Ligue 2,France
+Paris FC,Ligue 2,France
+RC Lens,Ligue 2,France
+Rodez AF,Ligue 2,France
+SM Caen,Ligue 2,France
+US Orléans,Ligue 2,France
+Valenciennes FC,Ligue 2,France
+Amiens SC,Ligue 1,France
+Angers SCO,Ligue 1,France
+AS Monaco,Ligue 1,France
+ASSE,Ligue 1,France
+Dijon FCO,Ligue 1,France
+FC Metz,Ligue 1,France
+FC Nantes,Ligue 1,France
+Girondins de Bx,Ligue 1,France
+LOSC Lille,Ligue 1,France
+Montpellier HSC,Ligue 1,France
+Nîmes Olympique,Ligue 1,France
+OGC Nice,Ligue 1,France
+OL,Ligue 1,France
+OM,Ligue 1,France
+Paris Saint-Germain,Ligue 1,France
+RC Strasbourg,Ligue 1,France
+Stade Brestois,Ligue 1,France
+Stade de Reims,Ligue 1,France
+Stade Rennais,Ligue 1,France
+Toulouse FC,Ligue 1,France
+Bradford City,EPL League Two,England
+Cambridge Utd,EPL League Two,England
+Carlisle United,EPL League Two,England
+Cheltenham Town,EPL League Two,England
+Colchester,EPL League Two,England
+Crawley Town,EPL League Two,England
+Crewe Alexandra,EPL League Two,England
+Exeter City,EPL League Two,England
+Forest Green,EPL League Two,England
+Grimsby Town,EPL League Two,England
+Leyton Orient,EPL League Two,England
+Macclesfield,EPL League Two,England
+Mansfield Town,EPL League Two,England
+Morecambe,EPL League Two,England
+Newport County,EPL League Two,England
+Northampton,EPL League Two,England
+Oldham Athletic,EPL League Two,England
+Plymouth Argyle,EPL League Two,England
+Port Vale,EPL League Two,England
+Salford City,EPL League Two,England
+Scunthorpe Utd,EPL League Two,England
+Stevenage,EPL League Two,England
+Swindon Town,EPL League Two,England
+Walsall,EPL League Two,England
+Accrington,EPL League One,England
+AFC Wimbledon,EPL League One,England
+Blackpool,EPL League One,England
+Bolton,EPL League One,England
+Bristol Rovers,EPL League One,England
+Burton Albion,EPL League One,England
+Bury (Generic Players),EPL League One,England
+Coventry City,EPL League One,England
+Doncaster,EPL League One,England
+Fleetwood Town,EPL League One,England
+Gillingham,EPL League One,England
+Ipswich,EPL League One,England
+Lincoln City,EPL League One,England
+MK Dons,EPL League One,England
+Oxford United,EPL League One,England
+Peterborough,EPL League One,England
+Portsmouth,EPL League One,England
+Rochdale,EPL League One,England
+Rotherham Utd,EPL League One,England
+Shrewsbury,EPL League One,England
+Southend United,EPL League One,England
+Sunderland,EPL League One,England
+Tranmere Rovers,EPL League One,England
+Wycombe,EPL League One,England
+Barnsley,EPL Championship,England
+Birmingham City,EPL Championship,England
+Blackburn Rovers,EPL Championship,England
+Brentford,EPL Championship,England
+Bristol City,EPL Championship,England
+Cardiff City,EPL Championship,England
+Charlton Ath,EPL Championship,England
+Derby County,EPL Championship,England
+Fulham,EPL Championship,England
+Huddersfield,EPL Championship,England
+Hull City,EPL Championship,England
+Leeds United,EPL Championship,England
+Luton Town,EPL Championship,England
+Middlesbrough,EPL Championship,England
+Millwall,EPL Championship,England
+Nott'm Forest,EPL Championship,England
+Preston,EPL Championship,England
+QPR,EPL Championship,England
+Reading,EPL Championship,England
+Sheffield Wed,EPL Championship,England
+Stoke City,EPL Championship,England
+Swansea City,EPL Championship,England
+West Brom,EPL Championship,England
+Wigan Athletic,EPL Championship,England
+AFC Bournemouth,Premier League,England
+Arsenal,Premier League,England
+Aston Villa,Premier League,England
+Brighton,Premier League,England
+Burnley,Premier League,England
+Chelsea,Premier League,England
+Crystal Palace,Premier League,England
+Everton,Premier League,England
+Leicester City,Premier League,England
+Liverpool,Premier League,England
+Manchester City,Premier League,England
+Manchester United,Premier League,England
+Newcastle United,Premier League,England
+Norwich City,Premier League,England
+Sheffield United,Premier League,England
+Southampton,Premier League,England
+Tottenham Hotspur,Premier League,England
+Watford,Premier League,England
+West Ham United,Premier League,England
+Wolves,Premier League,England
+Aalborg BK,3F Superliga,Denmark
+Aarhus AGF,3F Superliga,Denmark
+AC Horsens,3F Superliga,Denmark
+Brøndby IF,3F Superliga,Denmark
+Esbjerg fB,3F Superliga,Denmark
+FC København,3F Superliga,Denmark
+FC Midtjylland,3F Superliga,Denmark
+FC Nordsjælland,3F Superliga,Denmark
+Hobro IK,3F Superliga,Denmark
+Lyngby BK,3F Superliga,Denmark
+Odense BK,3F Superliga,Denmark
+Randers FC,3F Superliga,Denmark
+Silkeborg IF,3F Superliga,Denmark
+SønderjyskE,3F Superliga,Denmark
+Al. Petrolera,Liga DiMayor,Colombia
+América de Cali,Liga DiMayor,Colombia
+Atl. Bucaramanga,Liga DiMayor,Colombia
+Atl. Nacional,Liga DiMayor,Colombia
+Atlético Huila,Liga DiMayor,Colombia
+Cúcuta Deportivo,Liga DiMayor,Colombia
+Deportes Tolima,Liga DiMayor,Colombia
+Deportivo Cali,Liga DiMayor,Colombia
+Deportivo Pasto,Liga DiMayor,Colombia
+Envigado,Liga DiMayor,Colombia
+Indep. Medellín,Liga DiMayor,Colombia
+Jaguares,Liga DiMayor,Colombia
+Junior,Liga DiMayor,Colombia
+La Equidad,Liga DiMayor,Colombia
+Millonarios,Liga DiMayor,Colombia
+Once Caldas,Liga DiMayor,Colombia
+Patriotas,Liga DiMayor,Colombia
+Rionegro Águilas,Liga DiMayor,Colombia
+Santa Fe,Liga DiMayor,Colombia
+Unión Magdalena,Liga DiMayor,Colombia
+Beijing Guoan,CSL,China
+Beijing Renhe,CSL,China
+Chongqing SWM,CSL,China
+Dalian Yifang,CSL,China
+Guangzhou,CSL,China
+Guangzhou R&F,CSL,China
+Hebei CFFC,CSL,China
+Henan Jianye,CSL,China
+Jiangsu Suning,CSL,China
+Shandong Luneng,CSL,China
+Shanghai Shenhua,CSL,China
+Shanghai SIPG,CSL,China
+Shenzhen Kaisa,CSL,China
+Tianjin TEDA,CSL,China
+Tianjin Tianhai,CSL,China
+Wuhan Zall,CSL,China
+Audax Italiano,Campeonato AFP Planvital,Chile
+CD Antofagasta,Campeonato AFP Planvital,Chile
+CD Cobresal,Campeonato AFP Planvital,Chile
+CD Huachipato,Campeonato AFP Planvital,Chile
+CD O'Higgins,Campeonato AFP Planvital,Chile
+CD Palestino,Campeonato AFP Planvital,Chile
+CD Viñazur **,Campeonato AFP Planvital,Chile
+Coquimbo Unido,Campeonato AFP Planvital,Chile
+Curicó Unido,Campeonato AFP Planvital,Chile
+Depor. Iquique,Campeonato AFP Planvital,Chile
+Deportes Ñuñoa **,Campeonato AFP Planvital,Chile
+Everton de Viña,Campeonato AFP Planvital,Chile
+Uni. Católica,Campeonato AFP Planvital,Chile
+Uni. Concepción,Campeonato AFP Planvital,Chile
+Unión Española,Campeonato AFP Planvital,Chile
+Unión La Calera,Campeonato AFP Planvital,Chile
+Atl. Paranaense,Liga Do Brasil,Brazil
+Atlético Mineiro,Liga Do Brasil,Brazil
+Avaí,Liga Do Brasil,Brazil
+Bahia,Liga Do Brasil,Brazil
+Botafogo,Liga Do Brasil,Brazil
+Ceará SC,Liga Do Brasil,Brazil
+Chapecoense,Liga Do Brasil,Brazil
+Cruzeiro,Liga Do Brasil,Brazil
+CSA,Liga Do Brasil,Brazil
+Fluminense,Liga Do Brasil,Brazil
+Fortaleza,Liga Do Brasil,Brazil
+Goiás,Liga Do Brasil,Brazil
+Grêmio,Liga Do Brasil,Brazil
+Internacional,Liga Do Brasil,Brazil
+Santos,Liga Do Brasil,Brazil
